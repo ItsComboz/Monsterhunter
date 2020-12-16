@@ -4,6 +4,7 @@ Read before playing
 Controls 
 WASD to move
 Space to jummp
+R to reload
 Escape to open Menu to leave  the game or going to MainMenu
 
 Game is infinite with Score telling how well you are doing
